@@ -1,4 +1,4 @@
-
+# https://www.youtube.com/channel/UCVFpMcuKcw59wWSERqFUSJg/featured 
 #futures
 
 def long(K, S_t, taille):
